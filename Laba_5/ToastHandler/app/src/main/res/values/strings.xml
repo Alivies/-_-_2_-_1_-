@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToastHandler</string>
+    <string name="btn">OK</string>
+    <string name="message">Hello Geeks!! This is a Button.</string>
+</resources>
