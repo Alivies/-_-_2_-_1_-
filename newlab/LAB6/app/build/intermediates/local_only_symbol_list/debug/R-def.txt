@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ico
+id heart
+id imageView
+id linearAct
+id pic_view_image
+id rView
+id toolbar
+layout activity_main
+layout pic_viewer
+layout rview_item
+menu toolbar_menu
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+style Theme.GSON
+style Theme.GSON_20
+xml backup_rules
+xml data_extraction_rules

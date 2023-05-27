@@ -1,0 +1,2 @@
+com/example/mydialer/BuildConfig.java
+ com.example.mydialer.BuildConfig
